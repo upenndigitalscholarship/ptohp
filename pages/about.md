@@ -8,26 +8,18 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+<!-- {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}  -->
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+<!-- {% include feature/nav-menu.html sections="About CollectionBuilder CSV" %} -->
 
-## About CollectionBuilder CSV
+## About the Philadelphia Trans Oral History Project
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The Trans Oral History Project (TOHP) is a community engagement initiative that preserves and makes publicly accessible the stories of trans, nonbinary, and gender-nonconforming people. The project will begin by interviewing those who have meaningful connections to the city of Philadelphia. The project places an emphasis on stories that have traditionally not been heard, and it especially welcomes the contributions of trans elders. The goal of the TOHP is to conduct oral history interviews and make them widely available online through digital recordings and searchable transcripts. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+The TOHP also seeks to honor the wide diversity of trans, nonbinary, and gender-nonconforming lives. The project is invested in redressing how histories of gender expansion have been medicalized, commodified, and erased. To this end, no one will be told they are not trans enough to participate. 
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Interviewees, students, and other Penn community interviewers will work together to produce a co-owned archive of audio and/or video recordings that share gender-expansive experiences. The TOHP will also host listening sessions for participants who wish to share with their community but do not want their interview recorded and/or made publicly available. 
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Through a collaborative interview process, the TOHP will maintain and make accessible this archive of trans, nonbinary, and gender nonconforming stories. The project aims to foster lasting intergenerational bonds and community healing.  
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+If you are interested in participating, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSee7AGa7hrLdMeoL9S-LPW2byMksj5SIKWiXSHeQnc7CaD6zw/viewform">TOHP interest form.</a>
