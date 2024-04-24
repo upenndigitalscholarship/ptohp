@@ -86,7 +86,7 @@ function makeCard(obj) {
 /* filter items function */
 function filterItems(arr,q) {
     // show loading icon
-    loadingIcon.classList.remove("d-none");
+    // loadingIcon.classList.remove("d-none");
     // dont filter if no q 
     if (q=="") { 
         var filteredItems = arr; 
@@ -103,7 +103,7 @@ function filterItems(arr,q) {
         }
     }
     // add number 
-    document.querySelector("#numberOf").innerHTML = filteredItems.length + " of {{ items | size }} items";
+    // document.querySelector("#numberOf").innerHTML = filteredItems.length + " of {{ items | size }} items";
     
     // add stuff, make cards first in giant var, then add all at once to speed things up
     var cards = "";
