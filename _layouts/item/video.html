@@ -13,11 +13,15 @@ layout: item/item-page-base
         {% include item/video-player.html %}
         {% endif %}
 
-        <div class="mt-2">
-            
-            <!-- {% include item/download-buttons.html %} -->
-           
-        </div>
-        
+       
+    </div>
+
+    <div class="card-body">
+    
+        {% if page.object_transcript contains 'objects' %}
+            {% include item/pdf-embed.html %}
+        {% endif %}
+
+       
     </div>
 </div>
