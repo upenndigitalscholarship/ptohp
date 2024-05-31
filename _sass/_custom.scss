@@ -56,8 +56,24 @@ body{
     padding:20px;
 }
 
+.carousel-item-title{
+    padding-left:20px;
+    padding-right:20px;
+}
+
 .bg-dark{
     background-color:white !important;
+}
+
+.carousel-control-prev-icon{
+}
+
+.card{
+    border:none !important;
+}
+
+.about-contents > h2{
+    border-top:none;
 }
 
 footer{
