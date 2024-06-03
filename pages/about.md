@@ -18,7 +18,7 @@ The Philadelphia Trans Oral History Project (PTOHP) is a community engagement in
 
 The PTOHP also seeks to honor the wide diversity of trans, nonbinary, and gender-nonconforming lives. The project is invested in redressing how histories of gender expansiveness have been medicalized, commodified, and erased. To this end, no one will be told they are not trans enough to participate. 
 
-Interviewees, students, and other Penn community interviewers will work together to produce a co-owned archive of audio and/or video recordings that share gender-expansive experiences. The PTOHP will also host listening sessions for participants who wish to share with their community but do not want their interview recorded and/or made publicly available. 
+Interviewees, students, and other community interviewers will work together to produce a co-owned archive of audio and/or video recordings that share gender-expansive experiences. The PTOHP will also host listening sessions for participants who wish to share with their community but do not want their interview recorded and/or made publicly available. 
 
 Through a collaborative interview process, the PTOHP will maintain and make accessible this archive of trans, nonbinary, and gender nonconforming stories. The project aims to foster lasting intergenerational bonds and community healing.  
 
