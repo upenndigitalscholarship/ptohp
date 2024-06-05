@@ -22,7 +22,7 @@ Interviewees, students, and other community interviewers will work together to p
 
 Through a collaborative interview process, the PTOHP will maintain and make accessible this archive of trans, nonbinary, and gender nonconforming stories. The project aims to foster lasting intergenerational bonds and community healing.  
 
-If you are interested in participating, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSee7AGa7hrLdMeoL9S-LPW2byMksj5SIKWiXSHeQnc7CaD6zw/viewform">PTOHP interest form.</a>
+If you are interested in participating, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSee7AGa7hrLdMeoL9S-LPW2byMksj5SIKWiXSHeQnc7CaD6zw/viewform">PTOHP interest form. </a>
 
 ### About the Team
 
