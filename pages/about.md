@@ -31,6 +31,7 @@ __Nat DiFrank__ _project manager, PTOHP_
 __Che Gossett__ _associate director, FQT center_
 
 __Cynthia Heider__ _public digital scholarship librarian, Penn Libraries_
+<br>project consultant and site developer
 
 __Cassandra Hradil__ _digital humanities specialist, Price Lab_
 <br>site developer & designer

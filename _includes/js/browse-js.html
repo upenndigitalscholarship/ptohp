@@ -1,7 +1,8 @@
 {% if site.data.theme.browse-child-objects == true %}
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
+/* only allow items to be browsed if they are not hidden */
+{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid and item.hidden == no' -%}
 {% else %}
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid and item.parentid == nil' -%}
+{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid and item.parentid == nil and item.hidden == no' -%}
 {% endif %}
 {%- assign fields = site.data.config-browse -%}
 <script>
