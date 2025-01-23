@@ -19,7 +19,7 @@ The Philadelphia Trans Oral History Project (PTOHP) preserves and makes publicly
 PTOHP places an emphasis on stories that are circulated in community, but not in the dominant narrative and especially welcomes the contributions of trans elders. By bringing trans folks into conversation we hope to counter forms of alienation and isolation, and aim to make trans history more accessible.
    
 
-If you are interested in participating, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSee7AGa7hrLdMeoL9S-LPW2byMksj5SIKWiXSHeQnc7CaD6zw/viewform">PTOHP interest form.</a>
+If you are interested in participating, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSee7AGa7hrLdMeoL9S-LPW2byMksj5SIKWiXSHeQnc7CaD6zw/viewform">PTOHP interest form. </a>
 
 ### About the Team
 
@@ -27,7 +27,9 @@ __Nat DiFrank__ _Project Manager, PTOHP_
 
 __Che Gossett__ _Associate Director, FQT center_
 
-__Cynthia Heider__ _Public Digital Scholarship Librarian, Penn Libraries_
+
+__Cynthia Heider__ _public digital scholarship librarian, Penn Libraries_
+<br>project consultant and site developer
 
 __Cassandra Hradil__ _Digital Humanities Specialist, Price Lab_
 <br>site developer & designer
